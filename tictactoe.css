@@ -35,8 +35,3 @@ hr {
 .vertical-line {
     border-right: 3px solid black;
 }
-
-.winner {
-    background-color:gray;
-    color: green;
-}
